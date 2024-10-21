@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.vishal</groupId>
-	<artifactId>vishalka</artifactId>
+	<artifactId>productServiceTTSevening</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>vishalka</name>
 	<description>vishalka</description>
